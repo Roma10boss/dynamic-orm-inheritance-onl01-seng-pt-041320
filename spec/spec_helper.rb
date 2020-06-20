@@ -1,5 +1,5 @@
 require_relative '../config/environment'
-#require_relative'../lib/student'
+require '../lib/student'
 require_relative'../lib/interactive_record'
 
 require_relative "../lib/interactive_record.rb"
